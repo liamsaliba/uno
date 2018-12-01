@@ -1,0 +1,16 @@
+{
+  "name": "mao-game",
+  "version": "0.0.0",
+  "description": "Online Card Game of Mao",
+  "main": "index.js",
+  "author": "Liam Saliba",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hashids": "^1.1.4",
+    "moniker": "^0.1.2",
+    "npm": "^5.8.0",
+    "socket.io": "^2.0.2"
+  }
+}
